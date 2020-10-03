@@ -5,6 +5,7 @@
     "browser": true,
   },
   "rules": {
+    "linebreak-style": ["error", "windows"],
     "arrow-parens": "off",
     "camelcase": "off",
     "class-methods-use-this": "off",
