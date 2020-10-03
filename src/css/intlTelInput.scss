@@ -32,7 +32,7 @@ $flagsImageExtension: "png" !default;
 
 // enough space for them to click off to close
 $mobilePopupMargin: 30px !default;
-[dir="ltr"] {
+
 .iti {
   // need position on the container so the selected flag can be
   // absolutely positioned over the input
@@ -249,7 +249,6 @@ $mobilePopupMargin: 30px !default;
       cursor: pointer;
     }
   }
-}
 }
 // overrides for mobile popup (note: .iti-mobile class is applied on body)
 .iti-mobile .iti {
